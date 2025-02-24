@@ -1,0 +1,5 @@
+# Created at 2025-02-11T16:07:58.341
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Ankush\Ankush Automation Workplace\APIFramework\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
